@@ -8,7 +8,7 @@ C = '\033[36m'  # cyan
 W = '\033[0m'   # white
 Y = '\033[33m'  # yellow
 
-import sys
+
 import argparse
 import requests
 import traceback
