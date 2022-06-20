@@ -71,7 +71,7 @@ if print_v is True:
 import importlib
 from csv import writer
 from time import sleep
-import subprocess as subp
+
 from ipaddress import ip_address
 from signal import SIGTERM
 
